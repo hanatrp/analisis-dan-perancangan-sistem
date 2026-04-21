@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="Vh5HOAIGUDvFUOwPVdJa">
-    <mxGraphModel dx="2544" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="0q7oTWSM8q-Jji5LHFHL-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt; extend &amp;gt;&amp;gt;" vertex="1">
           <mxGeometry height="30" width="100" x="-110" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5-YFTNBad_IiRPgyZa-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="payment getaway" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
